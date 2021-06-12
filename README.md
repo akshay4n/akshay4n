@@ -2,7 +2,7 @@
 I'm a student, avid developer, keen on learning new things.
 I'm interested in Web-Development, Cyber-Security and AI/ML.
 ## Contact 
-[email](akshay2701n@gmail.com)
+akshay2701n@gmail.com
 
 
 <!---
