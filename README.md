@@ -1,5 +1,5 @@
 # Hi there👋
-I'm Akshay, student, avid developer, keen on learning new things.
+I'm a student, avid developer, keen on learning new things.
 I'm interested in Web-Development, Cyber-Security and AI/ML.
 ## Contact 
 akshay2701n@gmail.com
